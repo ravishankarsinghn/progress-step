@@ -93,7 +93,9 @@ body {
 
 .circle {
   background-color: #fff;
-  color: #999;
+  /* color: #999; */
+  color: #6f1fd5;
+  font-weight: 900;
   border-radius: 50%;
   height: 3rem;
   width: 3rem;
